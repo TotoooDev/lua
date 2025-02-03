@@ -1,6 +1,3 @@
-workspace "lua"
-    configurations { "release" }
-
 project "lua"
     kind "StaticLib"
     language "C"
